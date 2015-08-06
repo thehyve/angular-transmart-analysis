@@ -1,0 +1,24 @@
+{
+  "name": "angular-transmart-analysis",
+  "version": "(0.0.0)",
+  "authors": [
+    "jgeofil <jeremy@thehyve.nl>"
+  ],
+  "description": "Angular directive for a tranSMART analysis container",
+  "main": "transmart-analysis.directive.js",
+  "keywords": [
+    "transmart",
+    "analysis"
+  ],
+  "license": "GPL v3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0"
+  }
+}
